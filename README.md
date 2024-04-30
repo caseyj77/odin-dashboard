@@ -1,2 +1,2 @@
 # odin-dashboard
-Odin dashboard exercise 
+Odin dashboard exercise to practice using Grid Layout
