@@ -16,7 +16,16 @@
     border: 2px red;
     background-color: #1992d4;
     color: #ffffff;
+    font-size: large;
+    font-weight: bolder;
+    text-align: left;
+    padding-left: 50px;
+    display: grid;
+    grid-template-columns: auto; /* Set the columns to auto size */
+    grid-gap: 10px; /* Adjust the gap between grid items */
 }
+
+
 
 #header {
     grid-column: 2/3;
@@ -59,7 +68,7 @@
 }
 
 .header-btn:hover {
-    background-color: #10547c; /* Darker color on hover */
+    background-color: #10547c;
 }
 
 #main {
